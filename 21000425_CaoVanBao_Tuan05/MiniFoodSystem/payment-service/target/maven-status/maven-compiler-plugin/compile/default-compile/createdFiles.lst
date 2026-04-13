@@ -1,0 +1,6 @@
+com\minifood\paymentservice\NotificationService.class
+com\minifood\paymentservice\PaymentServiceApplication.class
+com\minifood\paymentservice\Payment.class
+com\minifood\paymentservice\PaymentController.class
+com\minifood\paymentservice\OrderClient.class
+com\minifood\paymentservice\PaymentService.class

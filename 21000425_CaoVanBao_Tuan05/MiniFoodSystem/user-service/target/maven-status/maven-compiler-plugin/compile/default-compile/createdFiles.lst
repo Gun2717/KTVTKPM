@@ -1,0 +1,5 @@
+com\minifood\userservice\User.class
+com\minifood\userservice\UserServiceApplication.class
+com\minifood\userservice\UserController.class
+com\minifood\userservice\UserRepository.class
+com\minifood\userservice\UserService.class

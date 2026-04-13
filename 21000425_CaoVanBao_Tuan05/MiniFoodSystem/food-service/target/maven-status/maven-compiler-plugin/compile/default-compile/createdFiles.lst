@@ -1,0 +1,5 @@
+com\minifood\foodservice\FoodRepository.class
+com\minifood\foodservice\FoodService.class
+com\minifood\foodservice\Food.class
+com\minifood\foodservice\FoodController.class
+com\minifood\foodservice\FoodServiceApplication.class

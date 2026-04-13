@@ -1,0 +1,8 @@
+com\minifood\orderservice\UserClient.class
+com\minifood\orderservice\OrderItem.class
+com\minifood\orderservice\OrderServiceApplication.class
+com\minifood\orderservice\OrderService.class
+com\minifood\orderservice\OrderRepository.class
+com\minifood\orderservice\Order.class
+com\minifood\orderservice\OrderController.class
+com\minifood\orderservice\FoodClient.class
